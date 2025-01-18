@@ -40,7 +40,7 @@ def make_api_request(mobile_string, discount_percent):
     return response
 
 def main():
-    st.title("Fusion Late Fee Waiver Discount API Interface")
+    st.title("Poketly Late Fee Waiver Discount API Interface")
 
     with st.form("discount_form"):
         mobile = st.text_input("Mobile Number", max_chars=10)
