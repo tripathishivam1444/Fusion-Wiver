@@ -16,7 +16,7 @@ with col2:
     st.title("")
 
 with col3:
-    st.image("fusion.png")
+    st.image("https://pocketly-public-bucket.s3.amazonaws.com/ec4ce59d-2587-43d6-9f9f-d8eeace2ca51.png")
 
 
 
